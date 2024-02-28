@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamed Ali Yassien</h1>
 <h3 align="center">A Mid-Level Flutter Developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn1.vectorstock.com/i/1000x1000/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.jpg">
+<img align="center" alt="Coding" width="400" src="https://cdn1.vectorstock.com/i/1000x1000/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-yassien&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-yassien" /> </p>
 
