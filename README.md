@@ -22,8 +22,11 @@
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mid_Level+Flutter+Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=208D35FF&vCenter=true&size=22"></a>
 
-  Mobile Software Engineer with 3 years of experience, I am constantly looking for opportunities to enhance my skill set and take on new challenges. My dedication to hard work and relentless pursuit of knowledge is what sets me apart from others. I'm passionate about staying ahead of the curve in the ever-evolving world of mobile software engineering. With a strong commitment to personal and professional growth, I constantly push boundaries to deliver innovative solutions.
+ As a Mid-Level Flutter Developer, I work with a team of talented engineers to create cross-platform mobile applications using Flutter and Dart. I have contributed to multiple projects that have reached thousands of users and received positive feedback.
 
+I have a Bachelor's degree in Computer Science from Mansoura University, where I learned the fundamentals of programming, data structures, algorithms, and software engineering. I also completed a short course on Android Development with Java at the Information Technology Institute (ITI) in 2019, where I gained hands-on experience in building native Android apps. I have also earned several certifications in Flutter, such as Flutter Payment Integration, Flutter Clean Architecture, and The Complete 2022 Flutter & Dart Development Course, to keep up with the latest trends and best practices in the field.
+
+I am passionate about mobile software engineering and constantly looking for opportunities to enhance my skill set and take on new challenges. I have a strong commitment to personal and professional growth, and I constantly push boundaries to deliver innovative solutions. I am also dedicated to hard work and relentless pursuit of knowledge, and I value collaboration, communication, and feedback in my work. My goal is to create user-friendly, performant, and secure mobile applications that solve real-world problems and add value to users and clients.
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-yassien&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-yassien" /> </p>
 
