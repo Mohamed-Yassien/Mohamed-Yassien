@@ -20,7 +20,7 @@
   Welcome to Mohamed Yassien's profile!
 </h3>
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Test+Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=208D35FF&vCenter=true&size=22"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=208D35FF&vCenter=true&size=22"></a>
 
   Mobile Software Engineer with 3 years of experience, I am constantly looking for opportunities to enhance my skill set and take on new challenges. My dedication to hard work and relentless pursuit of knowledge is what sets me apart from others. I'm passionate about staying ahead of the curve in the ever-evolving world of mobile software engineering. With a strong commitment to personal and professional growth, I constantly push boundaries to deliver innovative solutions.
 
