@@ -24,7 +24,7 @@
 
   Mobile Software Engineer with 3 years of experience, I am constantly looking for opportunities to enhance my skill set and take on new challenges. My dedication to hard work and relentless pursuit of knowledge is what sets me apart from others. I'm passionate about staying ahead of the curve in the ever-evolving world of mobile software engineering. With a strong commitment to personal and professional growth, I constantly push boundaries to deliver innovative solutions.
 
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50%" />
 
 - 🌱 I’m currently learning **Advanced Flutter Tutorials**
 
