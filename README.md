@@ -26,6 +26,16 @@
 
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50%" />
 
+  <h3 align="start">
+ 🌱 I’m currently learning **Advanced Flutter Tutorials**
+</h3>
+  <h3 align="start">
+ 💬 Ask me about **flutter , dart , java**
+</h3>
+  <h3 align="start">
+ 📄 Know about my experiences [https://drive.google.com/file/d/1Gr0EAxfFlxcSm-1z1uXP93Ke_fBM9K5S/view?usp=drive_link](https://drive.google.com/file/d/1Gr0EAxfFlxcSm-1z1uXP93Ke_fBM9K5S/view?usp=drive_link)
+</h3>
+
 - 🌱 I’m currently learning **Advanced Flutter Tutorials**
 
 - 💬 Ask me about **flutter , dart , java**
