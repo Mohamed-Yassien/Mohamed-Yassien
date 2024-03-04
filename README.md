@@ -2,12 +2,29 @@
 <div id="header">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+  <div id="badges">
+<a href="https://www.linkedin.com/in/mohamed-ali98/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:mohamedaliyassien98@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
+</a>
+ <a href="https://flowcv.me/mo-yassien"target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ayman" />
+ </a>
+</div>
 <h1 align="center">Hi 👋, I'm Mohamed Ali Yassien</h1>
 <h3 align="center">A Mid-Level Flutter Developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-yassien&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-yassien" /> </p>
+### Hi there 👋🎉
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-yassien" alt="mohamed-yassien" /></a> </p>
+<h3 align="center">
+  Welcome to Mohamed Yassien's profile!
+</h3>
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mid Level+Flutter+Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=208D35FF&vCenter=true&size=22"></a>
+
+  Mobile Software Engineer with 3 years of experience, I am constantly looking for opportunities to enhance my skill set and take on new challenges. My dedication to hard work and relentless pursuit of knowledge is what sets me apart from others. I'm passionate about staying ahead of the curve in the ever-evolving world of mobile software engineering. With a strong commitment to personal and professional growth, I constantly push boundaries to deliver innovative solutions.
 
 - 🌱 I’m currently learning **Advanced Flutter Tutorials**
 
