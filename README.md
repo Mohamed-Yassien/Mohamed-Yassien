@@ -28,9 +28,6 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-yassien&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-yassien" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-yassien" alt="mohamed-yassien" /></a> </p>
-
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50%" />
-
   
 
 - 🌱 I’m currently learning **Advanced Flutter Tutorials**
