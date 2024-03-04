@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ayman" />
  </a>
 </div>
-<h1 align="center">Hi 👋, I'm Mohamed Ali Yassien</h1>
-<h3 align="center">A Mid-Level Flutter Developer from Egypt</h3>
 
 ### Hi there 👋🎉
 
@@ -30,9 +28,7 @@
 
 - 💬 Ask me about **flutter , dart , java**
 
-- 📫 How to reach me **mohamedaliyassien98@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S2nCwJs1PCwom6tC7TnNuhEwGchRnXgW/view?usp=sharing](https://drive.google.com/file/d/1S2nCwJs1PCwom6tC7TnNuhEwGchRnXgW/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Gr0EAxfFlxcSm-1z1uXP93Ke_fBM9K5S/view?usp=drive_link](https://drive.google.com/file/d/1Gr0EAxfFlxcSm-1z1uXP93Ke_fBM9K5S/view?usp=drive_link)
 
 - ⚡ Fun fact **I am a serious person at work and I love rapid self-development**
 
